@@ -1,0 +1,17 @@
+.city-search-container{
+    background-color: aliceblue;
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    width: 70%;
+    margin: 0 auto;
+    border-radius: 12px;
+    margin-top: -50px;
+    z-index: 10; 
+}
+
+.search-box{
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+}
